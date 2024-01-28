@@ -1,0 +1,6 @@
+after opening terminal do this
+C:\Users\ASUS>path=C:\Program Files (x86)\Java\jdk1.8.0_211\bin (Hit enter)
+C:\Users\ASUS>d:
+D:\TE_Project_final_admission_process\project
+D:>javac *.java
+D:.java SplashScreen
